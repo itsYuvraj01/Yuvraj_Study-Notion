@@ -68,6 +68,6 @@ For Instructors:
   provides a flexible and scalable data storage solution. MongoDB allows for the 
   storage of unstructured and semi-structured data. The database stores the course 
   content, user data, and other relevant information related to the platform.
-  
+  ![db1](https://github.com/user-attachments/assets/f94ae6d4-6a5f-4587-be83-3cc936f1a531)
 
 
