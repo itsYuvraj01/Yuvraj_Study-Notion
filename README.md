@@ -72,4 +72,9 @@ For Instructors:
   
   ![db1](https://github.com/user-attachments/assets/f94ae6d4-6a5f-4587-be83-3cc936f1a531)
 
+  ## Installation
+  1. Clone the repository: git clone https://github.com/username/repo.git
+  2. Navigate to the project directory: cd StudyNotion
+  3. Install dependencies: npm install
+
 
